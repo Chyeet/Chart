@@ -1,5 +1,5 @@
 # Chart
-The BEST friendly virus.
+The BEST virus.
 
 
 ##########################DISCLAIMER##############################
