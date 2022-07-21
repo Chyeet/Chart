@@ -8,8 +8,10 @@ from tkinter import messagebox
 import subprocess
 import os
 import random
+#Imports
 
 
+#Final Stage
 def wind():
     choices = [5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
     char = random.choice(choices)
@@ -56,7 +58,7 @@ def secret():
     time.sleep(15)
 
 
-
+#'3,2,1' Stage
 def end():
 
     time.sleep(50)
@@ -74,6 +76,9 @@ def end():
         time.sleep(15)
         wind()
 
+        
+        
+ #Starting Stage
 def main():
 
 
@@ -118,3 +123,7 @@ def main():
     end()
 
 main()
+
+
+
+#dn
